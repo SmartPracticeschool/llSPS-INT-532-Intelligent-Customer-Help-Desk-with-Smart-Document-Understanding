@@ -24,5 +24,6 @@ The project was divided into several modules or tasks.
 5.Use Node-Red from the catalog to create a simple web UI and integrate all the services 
   into the web-app.  
  
-Project Demonstration Link :- https://youtu.be/9O6tp8G0CvQ
+Project Demonstration Link :- https://youtu.be/6lgjWomCuiI
+
 Node-Red Web-App :- https://node-red-fbjjc.eu-gb.mybluemix.net/ui/#!/0?socketid=Ig8bx9XAG23FmH6GAAAT
