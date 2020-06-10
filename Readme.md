@@ -26,4 +26,4 @@ The project was divided into several modules or tasks.
  
 Project Demonstration Link :- https://youtu.be/6lgjWomCuiI
 
-Node-Red Web-App :- https://node-red-fbjjc.eu-gb.mybluemix.net/ui/#!/0?socketid=Ig8bx9XAG23FmH6GAAAT
+Node-Red Web-App :-https://node-red-fbjjc.eu-gb.mybluemix.net/ui/#!/0?socketid=cBuWbkPjN78ZoGWfAAAD
